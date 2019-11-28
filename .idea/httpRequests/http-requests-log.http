@@ -1,0 +1,8 @@
+GET http://localhost:8888/{name}-{profiles}.properties
+
+###
+
+GET http://localhost:8888/{name}-{profiles}.properties
+
+###
+

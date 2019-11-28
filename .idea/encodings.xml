@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-application-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-manual" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-discovery-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user-with-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-simple-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-simple-provider-user" charset="UTF-8" />
+  </component>
+</project>
